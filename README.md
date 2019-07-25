@@ -1,6 +1,6 @@
 # Jogo-Assembly
 
-Projeto de um jogo em Assembly.
+Projeto de um jogo em Assembly, utilizando VHDL/Assembly
 
 Jogo que atravessa uma "rua" com varios "carros" passando de um lado para o outro. Objetivo é chegar ao outro lado sem deixar que os carros batam em voce.
 
